@@ -1,0 +1,1 @@
+# -AMEO-NN-Adaptive-Markovian-Evolutionary-Organismic-Neural-Networks
